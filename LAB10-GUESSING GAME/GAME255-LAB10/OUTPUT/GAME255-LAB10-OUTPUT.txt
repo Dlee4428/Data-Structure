@@ -1,0 +1,42 @@
+Enter name: PLAYER1
+Enter name: PLAYER2
+Enter name: PLAYER3
+PLAYER1 (1-30): 15
+Too high
+PLAYER2 (1-30): 15
+Too low
+PLAYER3 (1-30): 15
+Too low
+PLAYER1 (1-15): 7
+Winner Winner Chicken Dinner!
+PLAYER2 (15-30): 22
+Too low
+PLAYER3 (15-30): 22
+Too high
+PLAYER2 (22-30): 27
+Too low
+PLAYER3 (15-22): 17
+Too low
+PLAYER2 (27-30): 29
+Winner Winner Chicken Dinner!
+PLAYER3 (17-22): 20
+Too high
+PLAYER3 (17-20): 19
+Too high
+PLAYER3 (17-19): 18
+Winner Winner Chicken Dinner!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

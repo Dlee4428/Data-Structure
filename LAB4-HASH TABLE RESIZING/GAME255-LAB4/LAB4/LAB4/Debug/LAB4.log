@@ -1,0 +1,15 @@
+﻿  main.cpp
+d:\humber game programming\semester 4\data structure\labs\lab4\game255-lab4\lab4\lab4\hashtable.h(180): error C2440: 'initializing': cannot convert from 'HashTable<int>::Node **' to 'HashTable<int>::Node *'
+  d:\humber game programming\semester 4\data structure\labs\lab4\game255-lab4\lab4\lab4\hashtable.h(180): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+  d:\humber game programming\semester 4\data structure\labs\lab4\game255-lab4\lab4\lab4\hashtable.h(178): note: while compiling class template member function 'void HashTable<int>::resize(void)'
+  d:\humber game programming\semester 4\data structure\labs\lab4\game255-lab4\lab4\lab4\main.cpp(42): note: see reference to function template instantiation 'void HashTable<int>::resize(void)' being compiled
+  d:\humber game programming\semester 4\data structure\labs\lab4\game255-lab4\lab4\lab4\main.cpp(28): note: see reference to class template instantiation 'HashTable<int>' being compiled
+d:\humber game programming\semester 4\data structure\labs\lab4\game255-lab4\lab4\lab4\hashtable.h(189): error C3931: 'HashTable<int>::Node': cannot call a function that has restriction specifiers that are incompatible with the ambient context
+d:\humber game programming\semester 4\data structure\labs\lab4\game255-lab4\lab4\lab4\hashtable.h(195): error C2039: 'getKey': is not a member of 'HashTable<int>::Node'
+  d:\humber game programming\semester 4\data structure\labs\lab4\game255-lab4\lab4\lab4\hashtable.h(16): note: see declaration of 'HashTable<int>::Node'
+d:\humber game programming\semester 4\data structure\labs\lab4\game255-lab4\lab4\lab4\hashtable.h(195): error C2039: 'getValue': is not a member of 'HashTable<int>::Node'
+  d:\humber game programming\semester 4\data structure\labs\lab4\game255-lab4\lab4\lab4\hashtable.h(16): note: see declaration of 'HashTable<int>::Node'
+d:\humber game programming\semester 4\data structure\labs\lab4\game255-lab4\lab4\lab4\hashtable.h(195): error C2660: 'HashTable<int>::insert': function does not take 1 arguments
+  d:\humber game programming\semester 4\data structure\labs\lab4\game255-lab4\lab4\lab4\hashtable.h(67): note: see declaration of 'HashTable<int>::insert'
+d:\humber game programming\semester 4\data structure\labs\lab4\game255-lab4\lab4\lab4\hashtable.h(199): error C2039: 'setValue': is not a member of 'HashTable<int>::Node'
+  d:\humber game programming\semester 4\data structure\labs\lab4\game255-lab4\lab4\lab4\hashtable.h(16): note: see declaration of 'HashTable<int>::Node'

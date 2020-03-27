@@ -1,0 +1,3 @@
+﻿  Controller.cpp
+d:\humber game programming\semester 4\data structure\labs\lab7\game255-lab7\lab7\lab7\controller.cpp(45): warning C4715: 'Controller::getInstance': not all control paths return a value
+  LAB7.vcxproj -> D:\Humber Game Programming\Semester 4\Data Structure\LABS\LAB7\GAME255-LAB7\LAB7\Debug\LAB7.exe
